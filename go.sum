@@ -1,0 +1,8 @@
+github.com/RafaelTupynamba/Projeto2/userlib v0.0.0-20261021093053-84b676bc9115 h1:M1mCcq7kHRF2EOBG7alOOr+nf+61e06n77A3aK4mgnw=
+github.com/RafaelTupynamba/Projeto2/userlib v0.0.0-20261021093053-84b676bc9115/go.mod h1:h6I+G+SnTJWKDYTMU/IFKnxPYL+YINY8VJxBTb8Lk1c=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+golang.org/x/crypto v0.58.0 h1:COkYLr4k7nDI4r6QtMML2AfzeIswWHAJthLS6K/M/54=
+golang.org/x/crypto v0.58.0/go.mod h1:Xh+kl5A+M0gMiWDytH2Hhr5Z7WbNCpv/eB/EFgfSk+w=
+golang.org/x/sys v0.49.0 h1:XbzkgYJHdqh/8m2Uu0W/dQv8nktxx4BFHp1M0gROTXA=
+golang.org/x/sys v0.49.0/go.mod h1:hNLxWAXmnKAxqDtdwIYC4bM9oQPEecfsnNMuSxOs3og=
